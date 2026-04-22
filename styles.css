@@ -165,3 +165,11 @@ h2 {
     font-weight: bold;
     font-size: 20px;
 }
+
+.footer {
+    display: flex;
+    height: 60vh;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 200px;
+}
