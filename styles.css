@@ -134,3 +134,13 @@ h2 {
 .feature-card {
     max-width: 200px;
 }
+
+.inspirational-quotes {
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 200px;
+    background-color: #E5E7EB;
+}
