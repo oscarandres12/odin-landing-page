@@ -115,3 +115,10 @@ button {
 .features {
     text-align: center;
 }
+
+h2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    margin: 50px 0;
+}
