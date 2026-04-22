@@ -95,3 +95,9 @@ button {
     border: 1px solid #E5E7EB;
     color: #E5E7EB
 }
+
+.hero-button {
+    margin-right: auto;
+    font-size: 18px;
+    border: 1px solid royalblue;
+}
