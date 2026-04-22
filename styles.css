@@ -17,3 +17,12 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 200px;
+    background-color: #1F2937;
+    color: aliceblue;
+}
