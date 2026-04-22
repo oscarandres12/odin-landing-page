@@ -157,3 +157,11 @@ h2 {
     font-weight: 300;
     margin: 0;
 }
+
+.author {
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+    font-size: 20px;
+}
