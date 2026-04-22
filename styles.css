@@ -173,3 +173,14 @@ h2 {
     align-items: center;
     padding: 100px 200px;
 }
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    background-color: #3882F6;
+    border: 1px solid royalblue;
+    border-radius: 10px;
+    padding: 20px 200px;
+}
