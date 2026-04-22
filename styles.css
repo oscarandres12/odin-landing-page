@@ -101,3 +101,8 @@ button {
     font-size: 18px;
     border: 1px solid royalblue;
 }
+
+.main-image {
+    height: 500px;
+    width: 600px;
+}
